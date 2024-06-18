@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN stack<br>👯 I’m looking to collaborate on BFSI open-source projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Bun and Elysia<br>💬 Ask me about any situation based problems<br>⚡ I don't remember syntax. I always focus on problem solving tenchiques
+🔭 I’m currently working on MERN stack<br>👯 I’m looking to collaborate on BFSI open-source projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Bun and Elysia<br>💬 Ask me about any situation based problems<br>⚡ I emphasize on problem solving techniques than syntax.
 
 
 ## 🌐 Socials:
